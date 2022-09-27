@@ -6,7 +6,7 @@ public class LambdaTest {
         LambdaTest objeto = new LambdaTest();
 
         objeto.miMetodo(ft);
-        
+
     }
 
     public void miMetodo(FunctionTest parametro){
@@ -14,5 +14,6 @@ public class LambdaTest {
         parametro.saludar();
 
     }
+    
 }
 
